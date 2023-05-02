@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "MYP5"
+  site-url: "https://NickFrigerio.github.io/MYP5"
+  description: "This is MYP5 portfolio"
+  repo-branch: main
+  repo-url: "https://github.com/NickFrigerio/MYP5"
